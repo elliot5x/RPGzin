@@ -45,7 +45,7 @@ def opcoes():
             break
         elif acao == 3:
                 print("O baú está vazio.")
-                
+                time.sleep(3)
                 cls()
                 opcoes()
                 break
