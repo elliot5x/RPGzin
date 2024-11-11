@@ -5,7 +5,7 @@ _Testando o sistema de escolhas no python._
 O objetivo final vai ser fazer um joguinho no estilo do pokemon clássico.
 Como esse aqui:
 
-![Pokemon](pokemon.png))
+![Pokemon](/imgs/pokemon.png))
 
 ---
 
